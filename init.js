@@ -1,0 +1,1 @@
+consolelog("New Weapon Properties Added")
