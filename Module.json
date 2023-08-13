@@ -2,7 +2,7 @@
     "name": "Weapon Properties Extended",
     "title": "Weapon Properties Extended",
     "description": "Adds Weapon Properties From Immortas System",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "author": "Sessius",
     "systems": ["dnd5e"],
     "minimumCoreVersion": "11.305",
@@ -11,8 +11,8 @@
         "init.js"
     ],
     "url": "https://github.com/Sessius/Weapon-Properties-Extended",
-    "manifest": "",
-    "download": ""
+    "manifest": "https://github.com/Sessius/Weapon-Properties-Extended/releases/download/2.0.0/Module.json",
+    "download": "https://github.com/Sessius/Weapon-Properties-Extended/releases/download/2.0.0/Weapons.Properties.Extended.zip"
 
 
     
